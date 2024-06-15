@@ -19,23 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Hello! I'm <b className="purple"> Krishnam Mishra </b>, a passionate <b className="purple"> MERN Stack Developer </b> with a deep love for programming. Over the years, I've honed my skills in various languages and frameworks, allowing me to create seamless and efficient web applications
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics like<br/><br/>
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b>Frontend Development:<b className="purple"> React.js, HTML, CSS, Tailwind CSS, JavaScript.</b> </b><br/><br/>
+                <b>Backend Development:<b className="purple">  Node.js, Express.js, NestJS.</b> </b><br/><br/>
+                <b>Database Management:<b className="purple">  MongoDB no SQL based ,Mongodb Atlas.</b></b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              I enjoy tackling challenging problems and continuously learning new technologies to enhance my skill set. Whether it's building responsive user interfaces or developing robust server-side applications, I am committed to delivering high-quality solutions.
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
@@ -67,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/krishnammishra123"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +71,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://x.com/KrishnamMishr15?t=QZaWun-bOCvzUh9K7M9BdQ&s=09"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/krishnam-mishra-5618b5199/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/mishrakrishnam?igsh=OTRlejI4d2lxeHF3"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
